@@ -1,0 +1,25 @@
+The Equalizer###Action###2014###Antoine Fuqua###true
+Inception###Action###2010###Cristopher Nolan###true
+Fury###Action###2014###David Ayer###true
+The Fast and the Furious###Action###2001###Rob Cohen###true
+2 Fast 2 Furious###Action###2003###John Singleton###true
+The Fast and the Furious: Tokyo Drift###Action###2006###Justin Lin###true
+Fast & Furious###Action###2009###Justin Lin###true
+Fast Five###Action###2011###Justin Lin###true
+Fast & Furious 6###Action###2013###Justin Lin###true
+Furious 7###Action###2015###James Wan###true
+The Fate of the Furious###Action###2017###F. Gary Gray###true
+The Way Back###Drama###2020###Gavin O'Connor###true
+Legend###Drama###2015###Brian Helgeland###true
+A Star Is Born###Drama###2018###Bradley Cooper###true
+Five Feet Apart###Drama###2019###Justin Baldoni###true
+Eurovision Song Contest: The Story of Fire Saga###Comedy###2020###David Dobkin###true
+Dolittle###Comedy###2020###Stephen Gaghan###false
+Zootopia###Comedy###2016###Byron Howard and Rich Moore###true
+Ad Astra###Science-Fiction###2019###James GrayA###true
+Annihilation###Science-Fiction###2018###Alex Garland###true
+Passengers###Science-Fiction###2016###Morten Tyldum###true
+The Martian###Science-Fiction###2015###Ridley Scott###true
+Interstellar###Science-Fiction###2014###Cristopher Nolan###true
+The Informer###Thriller###2019###Andrea Di Stefano###true
+Run###Thriller###2020###Aneesh Chaganty###true
